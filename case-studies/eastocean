@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js" style="background-color: #2d5959;">
+<head>
+  <meta charset="utf-8">
+
+<title>Case | East Ocean Gourmet Group | Kenneth Pun Graphic/Digital Art Director | UI Design, Branding & Printing</title>
+<meta name="description" content="Graphic/Digital Art Director, UI Designer">
+<meta name="keywords" content="">
+
+<meta property="og:site_name" content="Kenneth Pun">
+<meta property="og:type" content="UI Design, Branding & Printing">
+<meta property="og:url" content="http://kennpun.byethost15.com/cityview">
+<meta property="og:title" content="Graphic/Digital Art Director | UI Design, Branding & Printing">
+<meta property="og:description" content="Graphic/Digital Art Director, UI Designer">
+<meta property="og:image" content="http://kennpun.byethost15.com/www/uploads/pages/1440x900/eastocean.jpg">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<link rel="icon" href="/www/images/layout/favicon.png" type="image/x-icon" />
+
+  <link rel="stylesheet" type="text/css" href="../css/main.css" />
+  <link href="https://fonts.googleapis.com/css?family=Hind" rel="stylesheet">
+
+<script>
+  window.App = {};
+  App.path = "/";
+  App.view = "case-studies";
+  App.FXs = [];
+  App.isIE11 = !!(navigator.userAgent.match(/Trident/) && navigator.userAgent.match(/rv[ :]11/));
+
+  var b = document.documentElement;
+  b.setAttribute('data-useragent',  navigator.userAgent);
+</script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1796924-1', 'auto');
+  ga('require', 'displayfeatures'); // Add demographics by default
+  ga('send', 'pageview');
+</script>
+</head>
+<body class="no-scroll ">
+  <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  
+   <symbol viewBox="0 0 500	500" id="shape-logo">
+  <polygon fill="#14D2D4" points="284.287,330.205 264.287,330.205 213.887,330.205 193.887,330.205 347.666,500 367.666,500 420,500 
+
+	440,500 "/>
+
+<polygon fill="#14D2D4" points="420,145.801 369.873,145.801 349.873,145.801 273.813,218.965 293.813,218.965 344.077,218.965 
+
+	364.077,218.965 440,145.801 "/>
+
+<rect x="40" fill="#14D2D4" width="75" height="500"/>
+  </symbol>
+
+  <symbol viewBox="88 -194.7 246.7 456.7" id="shape-facebook">
+    <path d="M246.3-193.9c-49,0-87.5,38.5-87.5,87.5v52.5h-70v70h70v245h70v-245h78.8l17.5-70h-96.3v-52.5c0-10.5,7-17.5,17.5-17.5h87.5
+      v-70H246.3z"/>
+  </symbol>
+
+  <symbol viewBox="194 -152.2 458 372.2" id="shape-twitter">
+    <path d="M649.7-106.6c-16.9,7.1-33.9,12.7-53.7,14.1c19.8-11.3,33.9-29.7,40.9-50.8c-18.4,11.3-38.1,18.4-59.3,22.6
+      c-16.8-18.4-40.8-29.7-67.7-29.7c-50.8,0-93.2,40.9-93.2,93.2c0,7.1,1.4,14.1,2.8,21.2c-77.7-4.2-145.4-40.9-190.6-97.4
+      c-8.5,14.1-12.7,29.7-12.7,46.6c0,32.5,16.9,60.7,40.9,77.7c-15.5,0-29.7-4.2-42.4-11.3v1.4c0,45.2,32.5,81.9,74.8,90.4
+      c-8.5,2.8-15.5,2.8-24,2.8c-5.6,0-11.3,0-16.9-1.4c11.3,36.7,46.6,63.5,86.1,65c-31.1,25.4-72,39.5-115.8,39.5
+      c-7.1,0-15.5,0-22.6-1.4c40.9,26.8,90.4,42.4,142.6,42.4C509.8,218.2,603,77,603-45.9c0-4.2,0-8.5,0-11.3
+      C621.5-72.7,637-88.2,649.7-106.6L649.7-106.6z"/>
+  </symbol>
+
+  <symbol viewBox="0 0 637.1 637.1" id="shape-cross">
+    <path d="M353.9,318.6l283.2,283.2l-35.4,35.4L318.6,353.9L35.4,637.1L0,601.7l283.2-283.2L0,35.4L35.4,0l283.2,283.2L601.7,0
+      l35.4,35.4L353.9,318.6z"/>
+  </symbol>
+
+  <symbol viewBox="0 0 2413 2413" id="shape-more">
+    <path d="M1206.5,0C540.2,0,0,540.2,0,1206.5S540.2,2413,1206.5,2413S2413,1872.8,2413,1206.5S1872.8,0,1206.5,0z
+       M807.5,1340.8c-74.2,0-134.3-60.1-134.3-134.3s60.1-134.3,134.3-134.3s134.3,60.1,134.3,134.3S881.6,1340.8,807.5,1340.8z
+       M1206.5,1340.8c-74.2,0-134.3-60.1-134.3-134.3s60.1-134.3,134.3-134.3s134.3,60.1,134.3,134.3S1280.7,1340.8,1206.5,1340.8z
+       M1611.5,1340.8c-74.2,0-134.3-60.1-134.3-134.3s60.1-134.3,134.3-134.3c74.2,0,134.3,60.1,134.3,134.3S1685.7,1340.8,1611.5,1340.8
+      z"/>
+  </symbol>
+
+  <symbol viewBox="0 0 900 145.8" id="shape-arrow">
+    <path d="M900,63.6H35.5L86,13.1L72.9,0L0,72.9l0,0L0,73l72.9,72.8L86,132.7L35.4,82.2H900V63.6z"/>
+  </symbol>
+
+  <symbol viewBox="0 0 32 59" id="shape-chevron-large">
+    <path d="M4391.87,4284l29.47,29.08-1.87,1.85L4390,4285.85Z" transform="translate(-4390 -4284)"/>
+    <path d="M4390.66,4341.15l29.47-29.08,1.87,1.85L4392.53,4343Z" transform="translate(-4390 -4284)"/>
+  </symbol>
+
+  <symbol viewBox="0 0 1088.1 549.9" id="shape-chevron">
+    <polygon points="0,28.8 27,0.7 543.7,495.9 1061.1,0 1088.1,28.2 543.7,549.9 "/>
+  </symbol>
+
+  <symbol viewBox="0 0 16.99 38.82" id="shape-brush">
+    <path d="M22.07,20a2.43,2.43,0,0,0-2.43-2.43h-2L19.49,5.2a3.67,3.67,0,0,0,.15-1,3.64,3.64,0,0,0-7.28,0,3.57,3.57,0,0,0,.15,1l1.9,12.36H12.36A2.43,2.43,0,0,0,9.93,20v2.43H22.07V20Zm0,4.85H9.93L7.51,39.41h17Z" transform="translate(-7.51 -0.59)"/>
+  </symbol>
+
+  <symbol viewBox="0 0 67.74 100" id="shape-pin">
+    <path d="M50,0A33.87,33.87,0,0,0,16.13,33.87c0,0.4,0,.81,0,1.22A33.8,33.8,0,0,0,18.1,45.26C25.32,69,50,100,50,100S74.67,69,81.9,45.27a33.73,33.73,0,0,0,1.94-10.17q0-.62,0-1.22A33.87,33.87,0,0,0,50,0Zm0,50.46A16.59,16.59,0,1,1,66.59,33.87,16.59,16.59,0,0,1,50,50.46Z" transform="translate(-16.13)"/>
+  </symbol>
+
+</svg>
+
+  <div id="main" class="main" data-view="case-studies">
+    <aside class="menu">
+  <div class="menu-left">
+    <div class="menu-panel">
+      <div class="menu-content">
+       <nav class="menu-nav">
+          <a href="/Home" class="do-transition nav-item do-track-event" data-view="home" data-category="Menu Navigation" data-action="Click" data-label="Home">
+            Home
+            <span class="nav-item-hover"></span>
+            <span class="nav-item-hover2"></span>
+          </a>
+          <div class="nav-item active" data-view="work" data-category="Menu Navigation" data-action="Click" data-label="Work">
+            Work
+            <span class="nav-item-hover"></span>
+            <span class="nav-item-hover2"></span>
+            	<div class="MenuListitem">
+                	<a href="/case-studies/hotelcoz" class="do-transition Work-nav do-track-event">HotelCoz
+                    	<span class="Work-nav-hover"></span>
+            			<span class="Work-nav-hover2"></span></a>
+                    <a href="/case-studies/harbourview" class="do-transition Work-nav do-track-event">The Harbourview Hotel
+                    	<span class="Work-nav-hover"></span>
+            			<span class="Work-nav-hover2"></span></a>
+                    <a href="/case-studies/cityview" class="do-transition Work-nav do-track-event">The Cityview - Hong Kong
+                    	<span class="Work-nav-hover"></span>
+            			<span class="Work-nav-hover2"></span></a>
+                    <a href="/case-studies/bonluxe" class="do-transition Work-nav do-track-event">Bonluxe
+                    	<span class="Work-nav-hover"></span>
+            			<span class="Work-nav-hover2"></span></a>
+                    <a href="/case-studies/building" class="do-transition Work-nav do-track-event">Building Department
+                    	<span class="Work-nav-hover"></span>
+            			<span class="Work-nav-hover2"></span></a>
+                    <a href="/case-studies/mfp" class="do-transition Work-nav do-track-event">Mei Foo 48th
+                    	<span class="Work-nav-hover"></span>
+            			<span class="Work-nav-hover2"></span></a>
+                    <a href="/case-studies/eastocean" class="do-transition Work-nav do-track-event">East Ocean Restaurant
+                    	<span class="Work-nav-hover"></span>
+            			<span class="Work-nav-hover2"></span></a>
+                </div>
+          </div>
+          <a href="mailto:kennpun@gmail.com" class="do-transition nav-item do-track-event" data-view="contact" data-category="Menu Navigation" data-action="Click" data-label="Contact">
+            Contact
+            <span class="nav-item-hover"></span>
+            <span class="nav-item-hover2"></span>
+          </a>
+        </nav>
+
+
+      </div>
+    </div>
+  </div>
+
+  <div class="menu-right small-hidden">
+    <div class="menu-panel">
+      <div class="quote menu-content">
+
+        <p class="quote-copy init do-toggle-quote" data-quote="1">“Recognizing the need is the primary condition for design.”</p>
+        <p class="quote-author init do-toggle-quote" data-quote="1">Charles Eames</p>
+
+        <p class="quote-copy do-toggle-quote" data-quote="2">“The goal of a designer is to listen, observe, understand, sympathize, empathize, synthesize, and glean insights that enable him or her to ‘make the invisible visible.”</p>
+        <p class="quote-author do-toggle-quote" data-quote="2">Hillman Curtis</p>
+
+        <p class="quote-copy do-toggle-quote" data-quote="3">“If you think good design is expensive, you should look at the cost of bad design.”</p>
+        <p class="quote-author do-toggle-quote" data-quote="3">Ralf Speth</p>
+      </div>
+    </div>
+  </div>
+</aside>
+    <header class="header">
+  <nav class="header-nav small-hidden">
+	    <a href="/Home" class="do-transition hn-item do-track-event" data-view="Home" data-category="Header Navigation" data-action="Click" data-label="Home">Home</a>
+    <a href="mailto:kennpun@gmail.com" class="do-transition hn-item do-track-event" data-view="contact" data-category="Header Navigation" data-action="Click" data-label="Contact">Contact</a>
+  </nav>
+
+  <a href="/Home" class="do-transition do-track-event" data-category="Header Navigation" data-action="Click" data-label="Home">
+    <h1 class="header-title">
+      <span class="copy">Kenneth Pun</span>
+      <svg class="shape-logo">
+        <use xlink:href="#shape-logo"></use>
+      </svg>
+    </h1>
+  </a>
+
+  <button type="button" class="hamburger-wrapper do-toggle-menu">
+    <span class="hamburger">&nbsp;</span>
+    <span class="hamburger-spacer small-hidden"></span>
+    <span class="hamburger-close">Close</span>
+  </button>
+</header>
+
+    <main class="section">
+      
+<header class="section-header" >
+  <div class="sh-content case-sh" style="background-image: url(../www/uploads/pages/1440x900/eastocean.jpg); background-size:cover; background-position:center;">
+    <h2 class="inner-content sh-title" style="text-shadow: 2px 2px 2px #9db8b8;">East Ocean Restaurant</h2>
+
+    <button class="scroll-cta do-track-event" data-category="Scroll CTA" data-action="Click" data-label="work">
+  
+  <span class="scroll-cta-copy" data-hover="" ></span>
+  <span class="scroll-cta-img">
+  <svg class="shape-arrow" >
+    	<use xlink:href="#shape-arrow-down"></use>
+    </svg>
+  </span>
+</button>
+  </div>
+</header>
+<!-- JB_Des_Start -->
+<div class="JB-Des-cell">
+
+<div class="vcard">
+        <div class="adr">
+        	<h3>Client</h3>
+          <p class="street-address">
+            East Ocean Gourmet Group
+          </p>
+        </div>
+        <div class="adr">
+        	<h3>Role</h3>
+          <p class="street-address">
+            Art Director
+          </p>
+        </div>
+        <div class="adr">
+        	<h3>Provided services</h3>
+          <p class="street-address">
+            Menu , Paper Adv and Order Form Design
+          </p>
+        </div>
+  	
+    </div>
+</div>
+
+<!-- JB_Des_End -->
+<div class="section-content casebg">
+    <div class="CaseItems p10" data-item="0" >
+    <img ng-src="../www/images/layout/EastOcean/view01.jpg" alt="" class="design-site-img" src="../www/images/layout/EastOcean/view01.jpg">
+    <img ng-src="../www/images/layout/EastOcean/view02.jpg" alt="" class="design-site-img" src="../www/images/layout/EastOcean/view02.jpg">
+    <img ng-src="../www/images/layout/EastOcean/view03.jpg" alt="" class="design-site-img" src="../www/images/layout/EastOcean/view03.jpg">
+    <img ng-src="../www/images/layout/EastOcean/view04.jpg" alt="" class="design-site-img" src="../www/images/layout/EastOcean/view04.jpg">
+    
+    </div>
+
+  
+      <div class="cs-ctas pb-r" style="background-color:#14d2d4;">
+  
+  
+  <!--    <div class="cs-cta-block">
+        <a href="/work" class="cs-back-link-inner do-track-event" data-category="Back to case studies" data-action="Click" data-label="case01">
+          <div class="cs-back-link-content">
+            <svg class="shape-arrow">
+              <use xlink:href="#shape-arrow"></use>
+            </svg>
+            <span class="cs-back-copy">
+              Back to all case studies
+            </span>
+          </div>
+        </a>
+      </div> -->
+       <div class="cs-cta-block" >
+        <a href="/case-studies/mfp" class="cs-next-inner do-track-event" data-category="View Case Study" data-action="Click" data-label="Mei Foo 48th - Case Study">
+          <div class="cs-next-bg" style="background-image: url(../www/uploads/pages/500x500/mfp.jpg);"></div>
+          <div class="cs-next-content">
+            <h2 class="cs-next-title do-set-text-bg">Mei Foo 48th</h2>
+            <div class="cs-next-link btn to-primary">see previous case study</div>
+          </div>
+        </a>
+      </div>
+      <div class="cs-cta-block" >
+        <a href="/case-studies/hotelcoz" class="cs-next-inner do-track-event" data-category="View Case Study" data-action="Click" data-label="HotelCoz - Case Study">
+          <div class="cs-next-bg" style="background-image: url(../www/uploads/pages/500x500/hotelcoz.jpg);"></div>
+          <div class="cs-next-content">
+            <h2 class="cs-next-title do-set-text-bg">HotelCoz</h2>
+            <div class="cs-next-link btn to-primary">see next case study</div>
+          </div>
+        </a>
+      </div>
+    </div>
+  
+  <div class="main-cta">
+    <a href="mailto:kennpun@gmail.com" class="cta-bg do-track-event" data-category="Main CTA" data-action="Click" data-label="Contact - Kenneth Pun">
+      <p class="cta-copy">
+        Want to know more <br>
+        <strong class="cta-strong">Contact Me</strong>
+      </p>
+      <svg class="shape-chevron-large">
+        <use xlink:href="#shape-chevron-large"></use>
+      </svg>
+    </a>
+  </div>
+</div>
+    </main>
+
+
+    <div class="transition-screen bottom"></div>
+    <div class="transition-screen"></div>
+  </div>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCm2lHOHGBC_cl2QIxDpmvFmk-K5Ouu-wM"></script>
+  <script src="/www/javascripts/application.min.js?v1478543434"></script>
+
+</body>
+</html>
